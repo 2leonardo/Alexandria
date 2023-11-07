@@ -1,5 +1,8 @@
 # Alexandria Knowledge Repository
 
+## Repository Info
+**Author:** [Leonardo Esposito](https://github.com/2leonardo)
+
 ## Purpose
 
 The Alexandria Knowledge Repository is a central hub for collecting, curating, and sharing a diverse range of resources, templates, and knowledge assets to support various projects and initiatives. This repository is dedicated to fostering collaboration and learning by providing a wide array of materials for different software, tools, and creative endeavors.
