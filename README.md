@@ -20,6 +20,8 @@ The repository will include:
 
 ## Contributing
 
+The main branch is protected by github protection rules.
+
 We encourage contributions from the community to enrich this repository. If you have valuable templates, resources, or knowledge to share, please follow these guidelines:
 
 1. **Fork the Repository:** Click the "Fork" button at the top right of this page to create your copy of the repository.
