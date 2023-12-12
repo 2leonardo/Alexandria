@@ -5,6 +5,7 @@
 ### 1.0.3 (December '23)
 
 *   Add template to [Alexandria](https://github.com/2leonardo/Alexandria)
+*   Add Layout info (e.g. Footer, Header)
 
 ### 1.0.2 (November '23)
 
@@ -30,6 +31,12 @@ The site will use the latest version of the new sb-starter theme:
 [https://github.com/SoBold/sb-starter/archive/refs/tags/1.0.1.zip](https://github.com/SoBold/sb-starter/archive/refs/tags/1.0.1.zip)
 
 ## Base
+
+## Layout
+
+### Header
+
+### Footer
 
 ## Blocks
 
