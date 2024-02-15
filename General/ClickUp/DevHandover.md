@@ -1,4 +1,4 @@
-# Dev Handover (1.0.3) [project name]
+# Dev Handover (1.0.4) [project name]
 
 ## Changelog:
 ### 1.0.4 (February '24)
@@ -30,17 +30,18 @@ The site will use the latest version of the new sb-starter theme:
 ### Footer
 ## Blocks
 ### Glossary for blocks
-🔗 Block has components
-🔒 Block has no components
-🧩 Block has components used by other blocks
-⚡ Block has AJAX
-📮 Block uses one or more post-types
-🆕 New block - This is only relevant when working on an existing site (either inherited or reworked)
+🔗 Block has components\
+🔒 Block has no components\
+🧩 Block has components used by other blocks\
+⚡ Block has AJAX\
+📮 Block uses one or more post-types\
+🆕 New block - This is only relevant when working on an existing site (either inherited or reworked)\
 ♻️ Old block - This is only relevant when working on an existing site (either inherited or reworked
-Whenever a block can have its acf field type easily inferred (e.g. text, textarea), its type will be omitted.
-When a field has multiple types inferred it will be left to the discretion of the dev to decide its type
-CTA is always acf: link
-Clones on page builder do not have to be prefixed, as they are found in loop context
+
+Whenever a block can have its acf field type easily inferred (e.g. text, textarea), its type will be omitted.\
+When a field has multiple types inferred it will be left to the discretion of the dev to decide its type.\
+CTA is always acf: link.\
+Clones on page builder do not have to be prefixed, as they are found in loop context.
 ## Post Types
 ## Components
 ## Site's Schema
