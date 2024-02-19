@@ -5,6 +5,7 @@
 *   Add images for blocks under blocks definitions
 *   Add new icon 🆕 for new blocks (when working on an inherited or reworked site)
 *   Add new icon ♻️ for new (recycled) blocks (when working on an inherited or reworked site)
+*   Add breakpoints entry inside base
 ### 1.0.3 (December '23)
 *   Add template to [Alexandria](https://github.com/2leonardo/Alexandria)
 *   Add Layout info (e.g. Footer, Header)
@@ -25,6 +26,7 @@ The site will use the latest version of the new sb-starter theme:
 [https://github.com/SoBold/sb-starter/archive/refs/tags/1.0.1.zip](https://github.com/SoBold/sb-starter/archive/refs/tags/1.0.1.zip)
 
 ## Base
+### Breakpoints
 ## Layout
 ### Header
 ### Footer
